@@ -1,4 +1,4 @@
 # Deep Learning in Statistical Arbitrage
-# Previous Project
+## Previous Project
 
-# Changes 
+## Changes 
